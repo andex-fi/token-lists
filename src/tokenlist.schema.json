@@ -203,13 +203,11 @@
         "additionalProperties": false,
         "properties": {
           "chainId": {
-            "type": "integer",
+            "type": "string",
             "description": "The chain ID of the network where this token is deployed",
-            "minimum": 1,
+            "minLength": 1,
+            "maxLength": 30,
             "examples": [
-              1,
-              2,
-              3,
               "sui:devnet",
               "sui:mainnet",
               "sui:testnet"

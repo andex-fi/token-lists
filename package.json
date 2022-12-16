@@ -1,6 +1,6 @@
 {
   "name": "@andex/token-lists",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "📚 The Token Lists specification",
   "main": "dist/index.js",
   "license": "MIT",
