@@ -203,7 +203,7 @@
         "additionalProperties": false,
         "properties": {
           "chainId": {
-            "type": ["integer", "string"],
+            "type": "integer",
             "description": "The chain ID of the network where this token is deployed",
             "minimum": 1,
             "examples": [

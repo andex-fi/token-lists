@@ -1,6 +1,6 @@
 {
   "name": "@andex/token-lists",
-  "version": "1.0.0-beta.31",
+  "version": "1.0.0",
   "description": "📚 The Token Lists specification",
   "main": "dist/index.js",
   "license": "MIT",
@@ -22,7 +22,7 @@
     "postbuild": "cp src/tokenlist.schema.json dist/tokenlist.schema.json",
     "test": "tsdx test",
     "lint": "tsdx lint src test",
-    "prepublishOnly": "yarn test && yarn build"
+    "prepublishOnly": "yarn build"
   },
   "peerDependencies": {},
   "husky": {
