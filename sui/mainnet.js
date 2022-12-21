@@ -4,7 +4,7 @@
       decimals: 9,
       symbol: 'SUI',
       name: 'Sui',
-      logoURL: 'https://tokenlist.animeswap.org/icons/APT.svg',
+      logoURL: 'https://tokenlist.animeswap.org/icons/SUI.png',
       projectURL: 'https://sui.io/',
     },
     {
