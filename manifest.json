@@ -1,0 +1,28 @@
+{
+  "$schema": "https://raw.githubusercontent.com/andex-fi/token-lists/master/schemas/manifest.json",
+  "name": "Andex Tokens List",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 3
+  },
+  "keywords": [
+    "venom",
+    "tip3",
+    "tokens"
+  ],
+  "timestamp": "2021-05-08T12:15:51.633Z",
+  "tokens": [
+    {
+      "name": "Wrapped VENOM",
+      "chainId": 1002,
+      "symbol": "WVENOM",
+      "decimals": 9,
+      "address": "0:caf849eea43d916944844ea0c4dc0bde7588ade07d81cad890dcd85bd4969ebc",
+      "logoURI": "https://raw.githubusercontent.com/andex-fi/token-lists/master/icons/WVENOM/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "andex"
+    }
+  ]
+}
