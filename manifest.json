@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/andex-fi/token-lists/master/schemas/manifest.json?token=GHSAT0AAAAAABZ6GTXADCRMEC4KS73BJTVOZD2U4SQ",
+  "$schema": "https://raw.githubusercontent.com/andex-fi/token-lists/master/schemas/manifest.json",
   "name": "Andex Tokens List",
   "version": {
     "major": 0,
