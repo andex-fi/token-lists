@@ -30,7 +30,7 @@
       "symbol": "FVT",
       "decimals": 18,
       "address": "0:f2c7d7e6ee9816381582fc1274d3f8f7363f9ef1fe3ecc3947414440b607292e",
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/andex-fi/token-lists/master/icons/CRV/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "andex"
