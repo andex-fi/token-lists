@@ -28,7 +28,7 @@
       "name": "Andex Token",
       "chainId": 1002,
       "symbol": "ANDX",
-      "decimals": 9,
+      "decimals": 18,
       "address": "0:e16fb96909a9b22bde398b4c2448811d6deef1ea73fd091fe8d1f03f9e0bf093",
       "logoURI": "https://raw.githubusercontent.com/andex-fi/token-lists/master/icons/ANDX/logo.svg",
       "version": 5,
