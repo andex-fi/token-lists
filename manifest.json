@@ -45,6 +45,40 @@
       "version": 5,
       "verified": true,
       "vendor": "andex"
+    },
+    {
+      "name": "Tether USD",
+      "chainId": 1002,
+      "symbol": "USDT",
+      "decimals": 18,
+      "address": "0:c5540b2fc43f36880423debf7e9e988d12d691fe86b98c346c179cf47d81abac",
+      "logoURI": "https://raw.githubusercontent.com/andex-fi/token-lists/master/icons/USDT/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "andex"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "chainId": 1002,
+      "symbol": "WBTC",
+      "decimals": 18,
+      "address": "0:be16d4e5275342fe8256e7244c7511bb0cc9778663202b3169f1908eab08dda6",
+      "logoURI": "https://raw.githubusercontent.com/andex-fi/token-lists/master/icons/WBTC/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "andex"
+    },
+    {
+      "name": "Wrapped Ether",
+      "chainId": 1002,
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0:e9ca0282fbaf36628e762fc6d95f3bc3440402771c47796f7303250081e92b50",
+      "logoURI": "https://raw.githubusercontent.com/andex-fi/token-lists/master/icons/WBTC/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "andex"
     }
+    
   ]
 }
