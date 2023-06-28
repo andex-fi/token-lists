@@ -74,7 +74,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "address": "0:e9ca0282fbaf36628e762fc6d95f3bc3440402771c47796f7303250081e92b50",
-      "logoURI": "https://raw.githubusercontent.com/andex-fi/token-lists/master/icons/WBTC/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/andex-fi/token-lists/master/icons/WETH/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "andex"
